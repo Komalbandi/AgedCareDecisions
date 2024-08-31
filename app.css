@@ -1,0 +1,22 @@
+.dashboard__button-group {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.createCaller__form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.m-10 {
+    margin: 10px;
+}
+
+.d-none {
+    display: none;
+}
